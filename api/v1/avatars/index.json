@@ -1,0 +1,15 @@
+{
+  "images": [
+    {"url": "TheRock.jpg", "type": "avatars", "filename": "TheRock.jpg"},
+    {"url": "AndersPersson.jpg", "type": "avatars", "filename": "AndersPersson.jpg"},
+    {"url": "AnnaJohansson.jpg", "type": "avatars", "filename": "AnnaJohansson.jpg"},
+    {"url": "ElinLarsson.jpg", "type": "avatars", "filename": "ElinLarsson.jpg"},
+    {"url": "EmmaKarlsson.jpg", "type": "avatars", "filename": "EmmaKarlsson.jpg"},
+    {"url": "ErikSvensson.jpg", "type": "avatars", "filename": "ErikSvensson.jpg"},
+    {"url": "FredrikOlsson.jpg", "type": "avatars", "filename": "FredrikOlsson.jpg"},
+    {"url": "JohanAndersson.jpg", "type": "avatars", "filename": "JohanAndersson.jpg"},
+    {"url": "LarsNilsson.jpg", "type": "avatars", "filename": "LarsNilsson.jpg"},
+    {"url": "SaraBergstrom.jpg", "type": "avatars", "filename": "SaraBergstrom.jpg"},
+    {"url": "SofieEriksson.jpg", "type": "avatars", "filename": "SofieEriksson.jpg"}
+  ]
+}

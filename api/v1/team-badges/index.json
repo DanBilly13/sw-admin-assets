@@ -1,0 +1,20 @@
+{
+  "images": [
+    {"url": "Bromma.jpg", "type": "team-badges", "filename": "Bromma.jpg"},
+    {"url": "DIF.png", "type": "team-badges", "filename": "DIF.png"},
+    {"url": "FCSTOCK.jpg", "type": "team-badges", "filename": "FCSTOCK.jpg"},
+    {"url": "Flemingsberg.png", "type": "team-badges", "filename": "Flemingsberg.png"},
+    {"url": "Gif.png", "type": "team-badges", "filename": "Gif.png"},
+    {"url": "HammenhogsIF.jpg", "type": "team-badges", "filename": "HammenhogsIF.jpg"},
+    {"url": "IFK-Stockholm.png", "type": "team-badges", "filename": "IFK-Stockholm.png"},
+    {"url": "IFK_Umea.png", "type": "team-badges", "filename": "IFK_Umea.png"},
+    {"url": "Jampt.jpg", "type": "team-badges", "filename": "Jampt.jpg"},
+    {"url": "Konya.png", "type": "team-badges", "filename": "Konya.png"},
+    {"url": "UmeaFC.jpg", "type": "team-badges", "filename": "UmeaFC.jpg"},
+    {"url": "Vintern.jpg", "type": "team-badges", "filename": "Vintern.jpg"},
+    {"url": "YstadsIFFF.jpg", "type": "team-badges", "filename": "YstadsIFFF.jpg"},
+    {"url": "orebo.jpg", "type": "team-badges", "filename": "orebo.jpg"},
+    {"url": "skellefteaFF.png", "type": "team-badges", "filename": "skellefteaFF.png"},
+    {"url": "svff.jpg", "type": "team-badges", "filename": "svff.jpg"}
+  ]
+}
