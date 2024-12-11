@@ -2,5 +2,6 @@
   "images": [
     {"url": "placeholder.jpg", "type": "thumbnails", "filename": "placeholder.jpg"},
     {"url": "Goal.png", "type": "thumbnails", "filename": "Goal.png"}
+     {"url": "livenow.jpg", "type": "thumbnails", "filename": "livenow.jpg"}
   ]
 }
